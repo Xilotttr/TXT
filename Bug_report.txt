@@ -1,0 +1,12 @@
+ID - 
+Title - 
+Project - 
+Version - 
+Severity - 
+Priority - 
+Status - 
+Author - 
+Performer - 
+Steps to repeat - 
+Actual result - 
+Expected reuslt - 
