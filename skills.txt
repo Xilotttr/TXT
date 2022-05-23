@@ -1,0 +1,11 @@
+1 - Git Bash
+2 - Postman
+3 - JavaScript
+4 - Dev Tools
+5 - Mobile Testing
+6 - SQL 
+7 - Charles
+8 - Scrum
+9 - Jmeter
+10 - Python
+
