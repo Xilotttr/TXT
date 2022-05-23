@@ -1,0 +1,4 @@
+Name - Abramovich Dmitry Aleksandrovich
+Age - 24
+Number of pets - 1
+Salary - 2500$
